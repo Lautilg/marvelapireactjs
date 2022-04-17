@@ -6,10 +6,10 @@ import Comics from "./components/Comics";
 import Series from "./components/Series";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import SingleCharacter from "./components/SingleCharacter";
 import SingleComic from "./components/SingleComic";
 import SingleSeries from "./components/SingleSeries";
-
 
 
 function App() {
@@ -33,6 +33,7 @@ function App() {
             Series
           </Link>
         </header>
+
         <div className="App-body">
           <Routes>
             <Route exact path="/" element={<Home />} />
@@ -51,6 +52,7 @@ function App() {
             <Route exact path="/series/:id" element={<SingleSeries />} />
           </Routes>
         </div>
+        <Footer />
       </div>
     </Router>
   );

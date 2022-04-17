@@ -48,6 +48,11 @@ const SingleCharacter = () => {
         ) : (
           <div className="p-3 mb-2 bg-dark text-white">
             <h2>Single Character</h2>
+            <br>
+                                
+            </br>
+            <br>
+            </br>
             {singleCharacter.map((chars) => {
               const { id, name, description } = chars;
               return (
