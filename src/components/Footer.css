@@ -1,5 +1,4 @@
-@media (min-width: 861px) {
-
+@media (min-width: 884px) {
 
     .main-footers {
         background: #222;
@@ -39,7 +38,7 @@
      
     }
     
-    @media (max-width: 861px){
+    @media (max-width: 883px){
         .main-footers {
             background: #222;
          }
@@ -80,10 +79,4 @@
         .rows {
             display: inline;
         }
-    
-    
-    
-         
-         
-         
     }

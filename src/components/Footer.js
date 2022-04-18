@@ -17,7 +17,7 @@ const Footer = () => {
                </div> 
                {/* Column1 */}
                <div className="col2">
-                   <h4>THICC MEMES INC</h4>
+                   <h4>LOCATION</h4>
                    <ul className="list-unstyled">
                        <li>2325468970</li>
                        <li>Buenos Aires, Argentina</li>
@@ -34,17 +34,6 @@ const Footer = () => {
                        <li>INTERNSHIPS</li>
                    </ul>
                </div>
-               {/* Column3 */}
-               <div className="col2">
-                   <h4>SOCIAL</h4>
-                   <ul className="list-unstyled">
-                       <li>INSTAGRAM</li>
-                       <li>TWITTER</li>
-                       <li>FACEBOOK</li>
-                   </ul>
-               </div>
-                
-                
               </div>
               <div className="row2">
               
