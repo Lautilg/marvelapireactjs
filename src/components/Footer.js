@@ -38,12 +38,12 @@ const Footer = () => {
                <div className="col2">
                    <h4>SOCIAL</h4>
                    <ul className="list-unstyled">
-                       <li>2325468970</li>
-                       <li>Buenos Aires, Argentina</li>
-                       <li>Tucuman 950</li>
+                       <li>INSTAGRAM</li>
+                       <li>TWITTER</li>
+                       <li>FACEBOOK</li>
                    </ul>
                </div>
-                {/* Column4 */}
+                
                 
               </div>
               <div className="row2">
